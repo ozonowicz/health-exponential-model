@@ -8,4 +8,4 @@ doc.tex - documentation
 Authors:
 Tomasz Jurczyk - derivation of the formulas
 Denis Grenda - coding
-Micha³ Smoliñski - documentation
+Michal Smolinski - documentation
